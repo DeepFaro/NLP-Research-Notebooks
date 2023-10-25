@@ -1,6 +1,6 @@
 # NLP Research Notebooks
 
-This repo all about text generation and NLP research notebooks and related text data manipulation techniques.
+This repo all about text generation and NLP research notebooks and related text data manipulation techniques. I would like to Thank You to [Mrs. Kin Thet Htar](https://github.com/khinthethtar) and [Mrs. Khin Khant Khant Hlaing](https://github.com/khinkhant2hlaing) for initial development.
 
 
 
