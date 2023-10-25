@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+selenium==4.2.0
+selenium-wire==3.0.6
+numpy
+beautifulsoup4
+Flask
+gunicorn
+notebook
+requests
